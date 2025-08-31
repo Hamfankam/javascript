@@ -1,0 +1,7 @@
+window.setTimeout(() => {
+  if (!document.querySelector('.rcx-box.rcx-box--full.rcx-modal__tagline')) {
+    if (!document.querySelector('rcx-box.rcx-box--full.rcx-modal__inner.rcx-css-1euli2f')) {
+      document.querySelector('.rcx-css-b4mi6g').click();
+    }
+  }
+}, 200);
